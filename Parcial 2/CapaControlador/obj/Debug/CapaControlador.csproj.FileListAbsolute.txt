@@ -1,0 +1,18 @@
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaControlador\bin\Debug\CapaControlador.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaControlador\bin\Debug\CapaControlador.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaControlador\obj\Debug\CapaControlador.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaControlador\obj\Debug\CapaControlador.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaControlador\bin\Debug\CapaModelo.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaControlador\bin\Debug\CapaModelo.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaControlador\bin\Debug\CapaControlador.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaControlador\bin\Debug\CapaControlador.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaControlador\bin\Debug\CapaModelo.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaControlador\bin\Debug\CapaModelo.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaControlador\obj\Debug\CapaControlador.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaControlador\obj\Debug\CapaControlador.pdb
