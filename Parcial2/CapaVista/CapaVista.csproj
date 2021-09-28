@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{96E78BFC-51B4-4AE9-9401-AF22184948A3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaVista</RootNamespace>
+    <AssemblyName>CapaVista</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CapaControlador, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CapaControlador\bin\Debug\CapaControlador.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormPrincipalMDI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipalMDI.Designer.cs">
+      <DependentUpon>FormPrincipalMDI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Extras\CN\clsConexion1.cs" />
+    <Compile Include="Forms Extras\formAyuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Extras\formAyuda.Designer.cs">
+      <DependentUpon>formAyuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Extras\formCatalogos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Extras\formCatalogos.Designer.cs">
+      <DependentUpon>formCatalogos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Extras\formInformes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Extras\formInformes.Designer.cs">
+      <DependentUpon>formInformes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Extras\formProcesos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Extras\formProcesos.Designer.cs">
+      <DependentUpon>formProcesos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormPrincipalMDI.resx">
+      <DependentUpon>FormPrincipalMDI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Extras\formAyuda.resx">
+      <DependentUpon>formAyuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Extras\formCatalogos.resx">
+      <DependentUpon>formCatalogos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Extras\formInformes.resx">
+      <DependentUpon>formInformes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Extras\formProcesos.resx">
+      <DependentUpon>formProcesos.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

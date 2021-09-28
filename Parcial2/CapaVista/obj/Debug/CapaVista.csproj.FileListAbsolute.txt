@@ -1,0 +1,28 @@
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaVista\bin\Debug\CapaVista.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaVista\bin\Debug\CapaVista.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaVista\obj\Debug\CapaVista.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaVista\obj\Debug\CapaVista.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaVista\bin\Debug\CapaControlador.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaVista\bin\Debug\CapaControlador.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaVista\obj\Debug\CapaVista.FormPrincipalMDI.resources
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaVista\bin\Debug\CapaVista.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaVista\bin\Debug\CapaVista.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaVista\bin\Debug\CapaControlador.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaVista\bin\Debug\CapaControlador.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaVista\obj\Debug\CapaVista.FormPrincipalMDI.resources
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaVista\obj\Debug\CapaVista.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaVista\obj\Debug\CapaVista.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaVista\obj\Debug\CapaVista.Forms_Extras.formAyuda.resources
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaVista\obj\Debug\CapaVista.Forms_Extras.formCatalogos.resources
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaVista\obj\Debug\CapaVista.Forms_Extras.formInformes.resources
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaVista\obj\Debug\CapaVista.Forms_Extras.formProcesos.resources
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaVista\bin\Debug\CapaModelo.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaVista\bin\Debug\CapaModelo.pdb

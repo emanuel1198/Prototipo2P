@@ -1,0 +1,12 @@
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaModelo\bin\Debug\CapaModelo.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaModelo\obj\Debug\CapaModelo.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigo\CapaModelo\obj\Debug\CapaModelo.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaModelo\bin\Debug\CapaModelo.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaModelo\obj\Debug\CapaModelo.dll
+D:\Users\Emanuel\Desktop\Analisis de sistemas\parcial 2\Codigos\Parcial 2\CapaModelo\obj\Debug\CapaModelo.pdb
